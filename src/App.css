@@ -3,10 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 body{
-  background-image: url('./döviz.webp');
+  background-image: url('./image/pexels-pixabay-128867.jpg');
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover ;
+  background-size: cover; 
   height: 100vh;
 }
